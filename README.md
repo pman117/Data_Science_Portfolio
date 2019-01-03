@@ -3,7 +3,7 @@
 # As a data scientist you add value to a business in 1 of 4 main ways:
   # 1) Extracting insights from raw data and presenting them to said company
   # 2) Building systems that offer direct value to the stakeholders
-  # 3) Building systems that offer direct value to other in said company
+  # 3) Building systems that offer direct value to others in said company
   # 4) Sharing your expertise with others in said company
 
 # The skills that one must acquire to be able to add value to a business in the before mentioned 4 ways:

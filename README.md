@@ -13,7 +13,7 @@
   # 4) Ability to reason about data
   # 5) Motivation and ability to take initiative
 
-# This data science portfolio attempts to utilize real world raw data and illustrates how value is added to a business via the skills mentioned previously. This data science portfolio consists of :
+# This data science portfolio attempts to utilize real world raw data and illustrates how value is added to a business via the skills mentioned above. This data science portfolio consists of :
   # 1) Data cleaning projects
   # 2) Exploratory Data Analysis (EDA)
   # 3) End-to-End Data Products

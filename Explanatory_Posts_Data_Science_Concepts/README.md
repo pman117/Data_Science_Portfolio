@@ -1,0 +1,1 @@
+Attempt to thoroughly understand and explain data science concepts using top down reverse engineering approach

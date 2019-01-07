@@ -1,0 +1,1 @@
+After the data is clean, attempt to extract insights from the data which will be of value to the said business problem at hand

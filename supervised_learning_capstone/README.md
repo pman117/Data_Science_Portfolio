@@ -1,23 +1,17 @@
-# Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+# Predict Death by Auto Accident
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [ Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+ Research Question(Framing the problem): Can the said before mentioned data containing numerous (categorical/discrete/qualitative) (nominal) variables pretransformed to numerical variables potentially be significant enough to contribute to the outcome(severity of the accident) and be able to predict death or no death in an accident via machine learning models? If any, which variables would be the most significant?
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
-* etc.
+* Collecting the raw data
+* Process the raw data for EDA
+* EDA
+    * Data Visualization
+    * Insight
 
 ### Technologies
 * R 

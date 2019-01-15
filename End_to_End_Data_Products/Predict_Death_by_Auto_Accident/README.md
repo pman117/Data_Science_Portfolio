@@ -7,47 +7,68 @@
 
 
 ### Methods Used
-* Collecting the raw data
-* Process the raw data for EDA
-* EDA
+* Raw data gathering & cleaning
+* EDA (Descriptive Statistics)
     * Data Visualization
-    * Insight
+* Inferential Statistics
+    * machine learning/predicting modeling
+
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
-* etc. 
+* Anaconda
+* Pandas, jupyter,numpy, matplotlib, scipy, seaborn,sklearn, hyperopt
+
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+* raw data contains:
+    * plethora of variables which contribute to the severity of road accidents in France from 2005 to 2016
+    * 4 different data sources:
+        * caracteristics
+        * users
+        * vehicles
+        * places
+    * CSV file format
+    * 3 million samples -> 52 parameters/sample
+    
+* challenges throughout entire data science process:
+    * renaming the parameters( x input variables) to be more meaningful
+    * severity of accident (y outcome dependent variable) is class imbalanced
+    
 
 ## Needs of this project
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+- construct valuable data science project & entire data science process:
+    - Frame the problem
+    - Initial Evaluation of potential value of said project if implemented
+    - Determine current Approch/Create Baseline Model
+    - Team Discussion of the Data Science Process
+    - Collect necessary raw data
+    - Process Data for analysis
+    - EDA
+    - Perform In-Depth analysis
+    - Communicate result of analysis(Data product)
+    - ML model Monitoring & Feedback
+    - ML model to baseline model evaluation via A/B Testing
+    - data science project google slides presentation pdf
+    - README.md
+    
+- software app developers for data product interactivity
 
 ## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
+1. Setup up environment:
     
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
+2. Clone folder containing project:
+    - remote:
+        - https://github.com/pman117/Data_Science_Portfolio/tree/master/End_to_End_Data_Products/Predict_Death_by_Auto_Accident
+    - utilize git sparse checkout
+        - excellent tutorial here:
+            - https://briancoyner.github.io/2013/06/05/git-sparse-checkout.html
+            
+3. Raw Data is being kept here within this folder (https://github.com/pman117/Data_Science_Portfolio/tree/master/End_to_End_Data_Products/Predict_Death_by_Auto_Accident/Raw_Data)
 
 *If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
 
-5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](link)

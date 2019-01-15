@@ -1,6 +1,6 @@
 # Predict Death by Auto Accident
 
-#### -- Project Status: [ Completed]
+#### -- Project Status: [ Active]
 
 ## Project Intro/Objective
  Research Question(Framing the problem): Can the said before mentioned data containing numerous (categorical/discrete/qualitative) (nominal) variables pretransformed to numerical variables potentially be significant enough to contribute to the outcome(severity of the accident) and be able to predict death or no death in an accident via machine learning models? If any, which variables would be the most significant?

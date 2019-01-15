@@ -57,6 +57,7 @@
 
 ## Getting Started
 1. Setup up environment:
+    - https://github.com/pman117/Data_Science_Portfolio/blob/master/End_to_End_Data_Products/Predict_Death_by_Auto_Accident/SETUP.md
     
 2. Clone folder containing project:
     - remote:
@@ -67,27 +68,14 @@
             
 3. Raw Data is being kept here within this folder (https://github.com/pman117/Data_Science_Portfolio/tree/master/End_to_End_Data_Products/Predict_Death_by_Auto_Accident/Raw_Data)
 
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* Python Notebook containing data science project:
+https://github.com/pman117/Data_Science_Portfolio/blob/master/End_to_End_Data_Products/Predict_Death_by_Auto_Accident/Predict_Death_by_Auto_Accident_.ipynb
 
+* Data science project google slides presentation:
+https://github.com/pman117/Data_Science_Portfolio/blob/master/End_to_End_Data_Products/Predict_Death_by_Auto_Accident/Predict_Death_by_Auto_Accident_presentation2.0.pdf
 
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
+Partha Ray  ray.partha119@yahoo.com
